@@ -63,13 +63,7 @@
 //        return (NumberToText(number / 1000000000) + "Billion " + NumberToText(number % 1000000000));
 //    }
 //}*/
-//string NumberToText(long long int number) {
-//    for (long long int i = number; i == 0;)
-//    {
-//
-//    }
-//}
-//
+
 //
 //int main()
 //{
